@@ -42,6 +42,8 @@ Run these commands
 - Run `npm install`
 - Run `nodemon index.js`
 
+- Check : https://hashscan.io/testnet/t
+
 If there is an error on when running `nodemon index.js` after `npm install`. 
 
 Run these commands
