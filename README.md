@@ -50,3 +50,5 @@ Run these commands
 - `npm uninstall bcrypt`
 - `npm install bcrypt`
 - `nodemon index.js`
+
+- https://tribegroup.notion.site/Project-Submission-d6aef4cfaa754646a2e18849500292f9#a63816869063418094a34644d5ce100a
